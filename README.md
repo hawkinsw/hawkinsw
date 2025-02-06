@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... [RPM](https://github.com/network-quality/), [uBPF](https://github.com/iovisor/ubpf), and [libc++](https://github.com/llvm/llvm-project/) among others.
+- 🔭 I’m currently working on ... [RPM](https://github.com/network-quality/), [uBPF](https://github.com/iovisor/ubpf), [teaparty](https://github.com/cerfcast/teaparty), QUIC over RDMA, and [libc++](https://github.com/llvm/llvm-project/) among others.
 - 🌱 I’m currently learning ... Go, Rust, Prolog, Agda, C/C++, etc.
 - 👯 I’m looking to collaborate on ... QUIC/HTTP3 research, compilers research, operating systems research, programming languages research.
 - 💬 Ask me about ... anything!
